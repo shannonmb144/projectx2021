@@ -8,5 +8,5 @@ Topic: Epidemiology
     * Aggregated Results: `modeling\SARIMA.iypnb`
     * Per District: PART 1 of `modeling\SARIMA_reg.iypnb`
     * Figure Generation \ Summary Stats: `results\boxplot_reg.R`
-* LSTM
-* Transfer
+* LSTM and Relation of Bangkok Data to Odisha Data
+   * Aggregated Results: `modeling\finalLSTMs_complete.iypnb`
